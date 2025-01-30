@@ -27,7 +27,8 @@ The backend is built using **Flask** and **MongoDB**. It provides two main en
 
 1.  **Upload CSV**:
     
-    *   **Endpoint**:  
+    *   **Endpoint**: 
+
     ```bash
         POST /upload
     ```
@@ -45,6 +46,7 @@ The backend is built using **Flask** and **MongoDB**. It provides two main en
     ```bash
         GET /movies
     ```
+    
     *   **Description**: Retrieves movies from MongoDB with filtering, sorting, and pagination.
         
     *   **Query Parameters**:
