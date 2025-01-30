@@ -1,0 +1,21 @@
+title,year_of_release,language,genre,director,duration_minutes,rating,box_office_million,cast,production_company,budget_million,release_month,oscar_nominations,awards_won,critic_score,user_score,movie_type,subtitles,region,release_date
+Interstellar,2014,English,Sci-Fi,Christopher Nolan,169,8.6,677.5,"Matthew McConaughey, Anne Hathaway, Jessica Chastain","Syncopy, Paramount Pictures",165,November,5,1,86,87,Feature,Yes,Worldwide,2014-11-05
+Inception,2010,English,Sci-Fi,Christopher Nolan,148,8.8,829.9,"Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page","Syncopy, Warner Bros.",160,July,8,4,86,91,Feature,Yes,Worldwide,2010-07-16
+The Matrix,1999,English,Action,Wachowski Brothers,136,8.7,463.5,"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",Warner Bros.,63,March,4,4,87,94,Feature,Yes,Worldwide,1999-03-31
+The Dark Knight,2008,English,Action,Christopher Nolan,152,9.0,1005.0,"Christian Bale, Heath Ledger, Aaron Eckhart","Legendary Pictures, DC Comics",185,July,8,2,94,94,Feature,Yes,Worldwide,2008-07-18
+The Shawshank Redemption,1994,English,Drama,Frank Darabont,142,9.3,58.3,"Tim Robbins, Morgan Freeman, Bob Gunton",Columbia Pictures,25,September,7,0,91,98,Feature,Yes,Worldwide,1994-09-23
+Parasite,2019,Korean,Thriller,Bong Joon-ho,132,8.6,258.7,"Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong",CJ Entertainment,11,May,6,4,99,92,Feature,Yes,Worldwide,2019-05-30
+Crouching Tiger,2000,Mandarin,Action,Ang Lee,120,7.9,213.5,"Chow Yun-fat, Michelle Yeoh, Zhang Ziyi",Columbia Pictures,17,December,10,4,97,89,Feature,Yes,Worldwide,2000-12-08
+Amélie,2001,French,Romance,Jean-Pierre Jeunet,122,8.3,174.2,"Audrey Tautou, Mathieu Kassovitz, Rufus",Claudie Ossard Productions,10,April,5,2,89,93,Feature,Yes,Worldwide,2001-04-25
+Roma,2018,Spanish,Drama,Alfonso Cuarón,135,7.7,15.1,"Yalitza Aparicio, Marina de Tavira, Diego Cortina Autrey",Esperanto Filmoj,15,November,10,3,96,77,Feature,Yes,Worldwide,2018-11-21
+Life is Beautiful,1997,Italian,Comedy-Drama,Roberto Benigni,116,8.6,229.2,"Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini",Melampo Cinematografica,20,October,7,3,80,95,Feature,Yes,Worldwide,1997-10-23
+Spirited Away,2001,Japanese,Animation,Hayao Miyazaki,125,8.6,395.8,"Rumi Hiiragi, Miyu Irino, Mari Natsuki",Studio Ghibli,19,July,1,1,97,96,Feature,Yes,Worldwide,2001-07-20
+The Grand Budapest Hotel,2014,English,Comedy,Wes Anderson,99,8.1,174.8,"Ralph Fiennes, F. Murray Abraham, Mathieu Amalric","American Empirical Pictures",25,March,9,4,88,87,Feature,Yes,Worldwide,2014-03-06
+Pan's Labyrinth,2006,Spanish,Fantasy,Guillermo del Toro,118,8.2,83.3,"Ivana Baquero, Sergi López, Maribel Verdú",Esperanto Filmoj,19,October,6,3,95,91,Feature,Yes,Worldwide,2006-10-11
+City of God,2002,Portuguese,Crime,Fernando Meirelles,130,8.6,30.6,"Alexandre Rodrigues, Leandro Firmino, Phellipe Haagensen",O2 Filmes,3.3,August,4,0,90,94,Feature,Yes,Worldwide,2002-08-30
+Oldboy,2003,Korean,Thriller,Park Chan-wook,120,8.4,15.1,"Choi Min-sik, Yoo Ji-tae, Kang Hye-jeong",Show East,3,November,1,1,82,93,Feature,Yes,Worldwide,2003-11-21
+The Lives of Others,2006,German,Drama,Florian Henckel von Donnersmarck,137,8.4,77.4,"Ulrich Mühe, Martina Gedeck, Sebastian Koch",Wiedemann & Berg Filmproduktion,2,March,1,1,93,94,Feature,Yes,Worldwide,2006-03-23
+A Separation,2011,Persian,Drama,Asghar Farhadi,123,8.3,24.4,"Payman Maadi, Leila Hatami, Sareh Bayat",Asghar Farhadi Productions,0.8,March,2,1,95,91,Feature,Yes,Worldwide,2011-03-16
+The Handmaiden,2016,Korean,Thriller,Park Chan-wook,145,8.1,38.1,"Kim Min-hee, Ha Jung-woo, Cho Jin-woong",Yong Film,8.9,June,0,0,84,90,Feature,Yes,Worldwide,2016-06-01
+The Secret in Their Eyes,2009,Spanish,Thriller,Juan José Campanella,129,8.2,34.4,"Ricardo Darín, Soledad Villamil, Pablo Rago",Tornasol Films,2,May,1,1,89,92,Feature,Yes,Worldwide,2009-05-13
+The Hunt,2012,Danish,Drama,Thomas Vinterberg,115,8.3,16.8,"Mads Mikkelsen, Thomas Bo Larsen, Annika Wedderkopp",Zentropa,3.8,January,1,0,92,90,Feature,Yes,Worldwide,2012-01-10
