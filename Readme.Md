@@ -37,8 +37,11 @@ The backend is built using **Flask** and **MongoDB**. It provides two main en
         
 2.  **Get Movies**:
     
-    *   **Endpoint**: GET /movies
-        
+    *   **Endpoint**: GET  
+
+    ---
+    /movies
+    ---
     *   **Description**: Retrieves movies from MongoDB with filtering, sorting, and pagination.
         
     *   **Query Parameters**:
@@ -83,54 +86,52 @@ The frontend is built using **React** and provides two main routes:
     *   **Description**: Displays a list of movies with filtering, sorting, and pagination options.
         
 
-Installation
-------------
+## Installation
 
-### Prerequisites
+1. **Clone the repository**:
+    ```bash
+    git clone <repository-url>
+    cd <repository-folder>
+    ```
 
-*   Python 3.x
-    
-*   Node.js and npm
-    
-*   MongoDB
-    
+2. **Create a virtual environment**:
+    ```bash
+    python -m venv venv
+    source venv/bin/activate    # Linux/MacOS
+    venv\Scripts\activate       # Windows
+    ```
 
-### Backend Setup
-
-1.  git clone cd
+3. **Install dependencies**:
+    ```bash
+    pip install -r requirements.txt
+    ```
     
-2.  python -m venv 
-    venvsource venv/bin/activate 
-    # On Windows: venv\\Scripts\\activate
-    
-3.  pip install -r requirements.txt
-    
-4.  Start MongoDB:
-    
+4. **Start MongoDB**:
     *   Ensure MongoDB is installed and running on your system.
+        ```bash
+        mongod
+        ```
         
-    *   mongod
-        
-5.  python app.py
+5. **Run App**: 
+    ```bash
+    python app.py
+    ```
     
 
 ### Frontend Setup
 
-1.  cd frontend
-    
-2.  npm install
-    
-3.  npm start
+    ```bash
+    cd frontend
+        
+    npm install
+        
+    npm start
+    ```
     
 
-Running the Application
+ **Running the Application**
 -----------------------
-
-1.  python app.py
-    
-2.  cd frontendnpm start
-    
-3.  Open your browser and navigate to http://localhost:3000.
+1. Open your browser and navigate to http://localhost:3000.
     
 
 Usage
