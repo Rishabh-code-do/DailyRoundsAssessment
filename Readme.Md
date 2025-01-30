@@ -125,13 +125,13 @@ The frontend is built using **React** and provides two main routes:
 
 ### Frontend Setup
 
-    ```bash
+    
     cd frontend
         
     npm install
         
     npm start
-    ```
+    
     
 
  **Running the Application**
