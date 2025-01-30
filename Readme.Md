@@ -116,6 +116,10 @@ The frontend is built using **React** and provides two main routes:
         ```bash
         mongod
         ```
+    *   Create a database with name imdb if not then change the db url in app.py
+        ```bash
+        Database name: imdb
+        ```
         
 5. **Run App**: 
     ```bash
